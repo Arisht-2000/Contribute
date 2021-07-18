@@ -1,2 +1,2 @@
-# Contribute
-A place where y'all can contribute
+# DataStructures
+A place for all Data-Structures.
